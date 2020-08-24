@@ -1,0 +1,10 @@
+base
+lattice
+ggplot2
+caret
+e1071
+dplyr
+Metrics
+foreach
+iterators
+doParallel
